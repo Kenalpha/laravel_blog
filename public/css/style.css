@@ -1,0 +1,18 @@
+.navbar-custom{
+    /*background:rgba(0,0,0,0.5) !important;  */ /*making a navbar transparent */
+    background-color: #2980b9;
+}
+
+.custom{
+    color: white !important;
+}
+
+.avatar{
+	border-radius: 100%;
+	max-width: 100px;
+}
+
+.comment_pic{
+	border-radius: 100%;
+	max-width: 50px;
+}
